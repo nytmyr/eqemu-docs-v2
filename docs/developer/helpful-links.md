@@ -46,7 +46,9 @@
 | Georges2ools (Entelion)                     | https://github.com/cdub321/EQTOOLS                                   |
 | PEQ DB Dumps                                | https://gitlab.com/TheGrandLibrary/db.projecteq.net-dumps/-/packages |
 
-| Cool Things                | Link                                                                                                                                                                                    |
-|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Classic Music              | https://cdn.discordapp.com/attachments/579332651752620045/1344549825626247259/EQ_Music.zip?ex=68f132da&is=68efe15a&hm=0d0b743424c0868b9a522023b67e63838d6fc687620fc0f68f1fc8056e884928& |
-| DerpleTools - buttonmaster | https://github.com/DerpleMQ2/buttonmaster                                                                                                                                               |
+| Cool Things                            | Link                                                                                                                                                                                    |
+|:---------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Classic Music                          | https://cdn.discordapp.com/attachments/579332651752620045/1344549825626247259/EQ_Music.zip?ex=68f132da&is=68efe15a&hm=0d0b743424c0868b9a522023b67e63838d6fc687620fc0f68f1fc8056e884928& |
+| DerpleTools - buttonmaster             | https://github.com/DerpleMQ2/buttonmaster                                                                                                                                               |
+| EmuBot (AIO Bot Management Lua Plugin) | https://github.com/andude2/EmuBot                                                                                                                                                       |
+
