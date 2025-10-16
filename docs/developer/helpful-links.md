@@ -5,6 +5,14 @@
 | VegasEQ Allaclone   | http://vegaseq.com/Allaclone/    |
 | VegasEQ CharBrowser | http://vegaseq.com/charbrowser/  |
 
+| Useful Tools                                                                            | Link |
+|:----------------------------------------------------------------------------------------|:----------|
+| GamParse - Log Viewer, Parser, Overlay                                                  | https://elitegamerslounge.com/home/gamparse/GamParse-2.0.0-Beta.exe | 
+| EQLogParser - Log Viewer, Parser, Audio Triggers, Overlay                               | https://github.com/kauffman12/EQLogParser | 
+| RaidLoot LogSync - Limited Feature Parser                                               | https://s3.amazonaws.com/raidloot/logsync.exe | 
+| GIN - Audio Triggers                                                                    | https://eq.gimasoft.com/gina/Download.aspx | 
+| EQNag - Audio Triggers, Overlay, Floating Combat Text] (Have not used this personally)  | https://github.com/guildantix/eq-nag/releases | 
+
 | Raw SQL pulled by server commands | Link                                                                                       |
 |:----------------------------------|:-------------------------------------------------------------------------------------------|
 | Bot Tables Bootstrap              | https://raw.githubusercontent.com/EQEmu/Server/master/utils/sql/bot_tables_bootstrap.sql   |
