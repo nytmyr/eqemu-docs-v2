@@ -42,6 +42,7 @@
 | EQGZoneImporter                             | https://github.com/Zaela/EQGZoneImporter         |
 | S3DModelExtracter                           | https://github.com/Zaela/S3DModelExtracter       |
 | George's Tools                              | http://www.georgestools.chrsschb.com/            |
+| Georges2ools (Entelion)                     | https://github.com/cdub321/EQTOOLS               |
 
 | Cool Things    | Link                                                                                                                                                                                     |
 |:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
