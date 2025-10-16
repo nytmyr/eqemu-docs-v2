@@ -28,21 +28,22 @@
 | Akk-Stack-Update       | https://vegaseq.com/docs/akk-stack/operate/update/    |
 
 
-| Tools / Editors commonly referenced in docs | Link                                             |
-|:--------------------------------------------|:-------------------------------------------------|
-| PEQPHPEditor                                | https://github.com/ProjectEQ/peqphpeditor        |
-| EOC                                         | https://eoc.eqemu.dev/                           |
-| Quest-API Introduction                      | http://vegaseq.com/docs/quest-api/introduction/  |
-| Spire Quest API Explorer                    | https://spire.eqemu.dev/                         |
-| Allaclone Repo                              | https://github.com/Akkadius/EQEmuAllakhazamClone |
-| Allaclone Website                           | https://alla.eqemu.dev/                          |
-| CharBrowser Repo                            | https://github.com/maudigan/charbrowser          |
-| EQEmuParrticleEditor                        | https://github.com/Zaela/EQEmuParticleEditor     |
-| EQGWeaponModelImporter                      | https://github.com/Zaela/EQGWeaponModelImporter  |
-| EQGZoneImporter                             | https://github.com/Zaela/EQGZoneImporter         |
-| S3DModelExtracter                           | https://github.com/Zaela/S3DModelExtracter       |
-| George's Tools                              | http://www.georgestools.chrsschb.com/            |
-| Georges2ools (Entelion)                     | https://github.com/cdub321/EQTOOLS               |
+| Tools / Editors commonly referenced in docs | Link                                                                 |
+|:--------------------------------------------|:---------------------------------------------------------------------|
+| PEQPHPEditor                                | https://github.com/ProjectEQ/peqphpeditor                            |
+| EOC                                         | https://eoc.eqemu.dev/                                               |
+| Quest-API Introduction                      | http://vegaseq.com/docs/quest-api/introduction/                      |
+| Spire Quest API Explorer                    | https://spire.eqemu.dev/                                             |
+| Allaclone Repo                              | https://github.com/Akkadius/EQEmuAllakhazamClone                     |
+| Allaclone Website                           | https://alla.eqemu.dev/                                              |
+| CharBrowser Repo                            | https://github.com/maudigan/charbrowser                              |
+| EQEmuParrticleEditor                        | https://github.com/Zaela/EQEmuParticleEditor                         |
+| EQGWeaponModelImporter                      | https://github.com/Zaela/EQGWeaponModelImporter                      |
+| EQGZoneImporter                             | https://github.com/Zaela/EQGZoneImporter                             |
+| S3DModelExtracter                           | https://github.com/Zaela/S3DModelExtracter                           |
+| George's Tools                              | http://www.georgestools.chrsschb.com/                                |
+| Georges2ools (Entelion)                     | https://github.com/cdub321/EQTOOLS                                   |
+| PEQ DB Dumps                                | https://gitlab.com/TheGrandLibrary/db.projecteq.net-dumps/-/packages |
 
 | Cool Things    | Link                                                                                                                                                                                     |
 |:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
