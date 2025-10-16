@@ -111,6 +111,7 @@ nav:
       - Configuration:
           - eqemu_config.json: ./configuration/eqemu_config.md
       - Developer:
+          - Helpful Links: developer/helpful-links.md
           - Build Pipeline: developer/build-pipeline.md
           - Codebase:
               - EQDictionary: developer/eqdictionary.md
