@@ -44,19 +44,23 @@
 
 ## Gameplay Tools
 
-| __**Tool**__          | __**Description**__                                                                                                             | __**Link**__                                                        |
+| __**Tool**__               | __**Description**__                                                                                                             | __**Link**__                                                        |
 |:---------------------------|:--------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
 | DerpleTools - rgmercs      | Automation with ability to create custom logic for each class including reasonable default logic for Live and some popular EMUs | https://github.com/DerpleMQ2/rgmercs                                |
 | DerpleTools - vendor       | Vendor tool that attaches to your vendor window and makes selling faster. Including Automated selling of Junk Items             | https://github.com/DerpleMQ2/vendor                                 |
 | DerpleTools - parcel       | Parcel tool that finds parcel merchants in zone and can auto send items based on criteria that can be customized                | https://github.com/DerpleMQ2/parcel                                 |
 | DerpleTools - bazaar       | Bazaar pricing and historical tracking tool                                                                                     | https://github.com/DerpleMQ2/bazaar                                 |
-| DerpleTools - buttonmaster | Hotbar replacement with Lua and Icon Support.                                                                                   | https://github.com/DerpleMQ2/buttonmaster                           |
+| DerpleTools - buttonmaster | Hotbar replacement with LUA and Icon Support.                                                                                   | https://github.com/DerpleMQ2/buttonmaster                           |
 | EmuBot                     | All-In-One bot management and inventory viewer                                                                                  | https://github.com/andude2/EmuBot                                   |
 | GamParse                   | Log Viewer, Parser, Overlay                                                                                                     | https://elitegamerslounge.com/home/gamparse/GamParse-2.0.0-Beta.exe | 
 | EQLogParser                | Log Viewer, Parser, Audio Triggers, Overlay                                                                                     | https://github.com/kauffman12/EQLogParser                           | 
 | RaidLoot LogSync           | Limited Feature Parser                                                                                                          | https://s3.amazonaws.com/raidloot/logsync.exe                       | 
-| GIN                        | Audio Triggers                                                                                                                  | https://github.com/smasherprog/Gina/releases                         | 
+| GIN                        | Audio Triggers                                                                                                                  | https://github.com/smasherprog/Gina/releases                        | 
 | EQNag                      | Audio Triggers, Overlay, Floating Combat Text                                                                                   | https://github.com/guildantix/eq-nag/releases                       | 
+| EZInventory                | MacroQuest lua script to help facilitate inventory management across all of your connected characters                           | https://github.com/andude2/EZInventory                              |
+| EZBots                     | MacroQuest lua script to help monitor all your connected bots                                                                   | https://github.com/andude2/EZBots                                   |
+| smartloot                  | Loot Manager and AutoLoot MacroQuest lua script for EQEmu                                                                       | https://github.com/andude2/smartloot                                |
+| VegasLoot                  | Autoloot Plugin for MacroQuest                                                                                                  |                                                                     |
 
 ## Raw Server Import SQLs for Bots and Mercs
 
