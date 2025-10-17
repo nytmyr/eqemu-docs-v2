@@ -31,7 +31,7 @@
 | EQGWeaponModelImporter | EQG Weapon Model Importer for EQEmu                                                                                             | https://github.com/Zaela/EQGWeaponModelImporter    |
 | EQGZoneImporter        | EQEmu Zone Importer                                                                                                             | https://github.com/Zaela/EQGZoneImporter           |
 | S3DModelExtracter      | S3D Model Extracter for EQEmu                                                                                                   | https://github.com/Zaela/S3DModelExtracter         |
-| Georges2ools           | Modern Remake of George's Tools by Entelion                                                                                     | https://github.com/cdub321/EQTOOLS                 |
+| EQTools (Georges2ools) | Modern Remake of George's Tools by Entelion                                                                                     | https://github.com/cdub321/EQTOOLS                 |
 
 ## Online Server Tools/References
 
@@ -77,7 +77,7 @@
 | Akk-Stack-Introduction | https://docs.eqemu.dev/docs/akk-stack/introduction/     |
 | Akk-Stack-Installation | https://docs.eqemu.dev/docs/akk-stack/installation/     |
 | Akk-Stack-Backups      | https://docs.eqemu.dev/docs/akk-stack/operate/backups/  |
-| Akk-Stack-Servies      | https://docs.eqemu.dev/docs/akk-stack/operate/services/ |
+| Akk-Stack-Services     | https://docs.eqemu.dev/docs/akk-stack/operate/services/ |
 | Akk-Stack-Update       | https://docs.eqemu.dev/docs/akk-stack/operate/update/   |
 
 ## Docker References
