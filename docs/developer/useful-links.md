@@ -9,29 +9,30 @@
 
 ## Repositories
 
-| __**Name**__           | __**Description**__                                                                                                             | __**Link**__                                       |
-|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
-| The Grand Library      | Compilation of repositories                                                                                                     | https://gitlab.com/TheGrandLibrary                 |
-| EQEmu                  | Main Repo for EQEmulator                                                                                                        | https://github.com/EQEmu/Server                    |
-| ProjectEQ Quests       | Quests Repo for ProjectEQ                                                                                                       | https://github.com/ProjectEQ/projecteqquests       |
-| EQEmu Maps             | Base, Nav, Water and Pathing maps for EQEmu                                                                                     | https://github.com/EQEmu/maps                      |
-| EQEmu Docs             | Docs Repo for EQEmulator                                                                                                        | https://github.com/EQEmu/eqemu-docs-v2             |
-| Allaclone              | Allakhazam Clone for EQEmulator                                                                                                 | https://github.com/EQEmuTools/EQEmuAllakhazamClone |
-| CharBrowser            | Magelo Clone for EQEmulator                                                                                                     | https://github.com/maudigan/charbrowser            |
-| Spire                  | A rich, portable server editing and development toolkit for EverQuest Emulator servers                                          | https://github.com/EQEmuTools/spire                |
-| PEQPHPEditor           | Full-Featured PHP Editor for EQEmulator                                                                                         | https://github.com/ProjectEQ/peqphpeditor          |
-| EQEmu EOC              | Deprecated Editor with some still useful tools                                                                                  | https://github.com/EQEmuTools/EQEmuEOC             |
-| EQEmuPatcher           | Auto Patcher for EQEmu Servers                                                                                                  | https://github.com/xackery/eqemupatcher            |
-| TalkEQ                 | Bridges links between everquest and other services                                                                              | https://github.com/xackery/talkeq                  |
-| Zone-Utilities         | Various utilities and libraries for parsing, rendering and manipulating EQ Zone files                                           | https://github.com/EQEmu/zone-utilities            |
-| MacroQuest             | An open source scripting and plugin platform for EverQuest                                                                      | https://github.com/macroquest/macroquest           |
-| MQ2TakeADump           | Allows you to dump EQ information out to CSV files, such as doors, groundspawns, objects, NPCs, current zone and zonepoints     | https://github.com/maudigan/MQ2TakeADump           |
-| eq-core-dll            | Core DLL for EverQuest to do patching, opt in to features                                                                       | https://github.com/xackery/eq-core-dll/            |
-| EQEmuParticleEditor    | Particle Editor for EQEmu                                                                                                       | https://github.com/Zaela/EQEmuParticleEditor       |
-| EQGWeaponModelImporter | EQG Weapon Model Importer for EQEmu                                                                                             | https://github.com/Zaela/EQGWeaponModelImporter    |
-| EQGZoneImporter        | EQEmu Zone Importer                                                                                                             | https://github.com/Zaela/EQGZoneImporter           |
-| S3DModelExtracter      | S3D Model Extracter for EQEmu                                                                                                   | https://github.com/Zaela/S3DModelExtracter         |
-| EQTools (Georges2ools) | Modern Remake of George's Tools by Entelion                                                                                     | https://github.com/cdub321/EQTOOLS                 |
+| __**Name**__           | __**Description**__                                                                                                         | __**Link**__                                       |
+|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
+| The Grand Library      | Compilation of repositories                                                                                                 | https://gitlab.com/TheGrandLibrary                 |
+| EQEmu                  | Main Repo for EQEmulator                                                                                                    | https://github.com/EQEmu/Server                    |
+| ProjectEQ Database     | PEQ Database daily dumps for EQEmu                                                                                          | https://db.eqemu.dev/                              |
+| ProjectEQ Quests       | Quests Repo for ProjectEQ                                                                                                   | https://github.com/ProjectEQ/projecteqquests       |
+| EQEmu Maps             | Base, Nav, Water and Pathing maps for EQEmu                                                                                 | https://github.com/EQEmu/maps                      |
+| EQEmu Docs             | Docs Repo for EQEmulator                                                                                                    | https://github.com/EQEmu/eqemu-docs-v2             |
+| Allaclone              | Allakhazam Clone for EQEmulator                                                                                             | https://github.com/EQEmuTools/EQEmuAllakhazamClone |
+| CharBrowser            | Magelo Clone for EQEmulator                                                                                                 | https://github.com/maudigan/charbrowser            |
+| Spire                  | A rich, portable server editing and development toolkit for EverQuest Emulator servers                                      | https://github.com/EQEmuTools/spire                |
+| PEQPHPEditor           | Full-Featured PHP Editor for EQEmulator                                                                                     | https://github.com/ProjectEQ/peqphpeditor          |
+| EQEmu EOC              | Deprecated Editor with some still useful tools                                                                              | https://github.com/EQEmuTools/EQEmuEOC             |
+| EQEmuPatcher           | Auto Patcher for EQEmu Servers                                                                                              | https://github.com/xackery/eqemupatcher            |
+| TalkEQ                 | Bridges links between everquest and other services                                                                          | https://github.com/xackery/talkeq                  |
+| Zone-Utilities         | Various utilities and libraries for parsing, rendering and manipulating EQ Zone files                                       | https://github.com/EQEmu/zone-utilities            |
+| MacroQuest             | An open source scripting and plugin platform for EverQuest                                                                  | https://github.com/macroquest/macroquest           |
+| MQ2TakeADump           | Allows you to dump EQ information out to CSV files, such as doors, groundspawns, objects, NPCs, current zone and zonepoints | https://github.com/maudigan/MQ2TakeADump           |
+| eq-core-dll            | Core DLL for EverQuest to do patching, opt in to features                                                                   | https://github.com/xackery/eq-core-dll/            |
+| EQEmuParticleEditor    | Particle Editor for EQEmu                                                                                                   | https://github.com/Zaela/EQEmuParticleEditor       |
+| EQGWeaponModelImporter | EQG Weapon Model Importer for EQEmu                                                                                         | https://github.com/Zaela/EQGWeaponModelImporter    |
+| EQGZoneImporter        | EQEmu Zone Importer                                                                                                         | https://github.com/Zaela/EQGZoneImporter           |
+| S3DModelExtracter      | S3D Model Extracter for EQEmu                                                                                               | https://github.com/Zaela/S3DModelExtracter         |
+| EQTools (Georges2ools) | Modern Remake of George's Tools by Entelion                                                                                 | https://github.com/cdub321/EQTOOLS                 |
 
 ## Online Server Tools/References
 
