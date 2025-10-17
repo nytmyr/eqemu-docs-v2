@@ -5,23 +5,23 @@
 | VegasEQ Allaclone   | http://vegaseq.com/Allaclone/    |
 | VegasEQ CharBrowser | http://vegaseq.com/charbrowser/  |
 
-| Repositories      | Description                                                                                                                 | Link                                              |
-|:------------------|:----------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
-| The Grand Library | Compilation of repositories                                                                                                 | https://gitlab.com/TheGrandLibrary                |
-| EQEmu             | Main Repo for EQEmulator                                                                                                    | https://github.com/EQEmu/Server                   |
-| EQEmu Docs        | Docs Repo for EQEmulator                                                                                                    | https://github.com/EQEmu/eqemu-docs-v2            |
-| Allaclone         | Allakhazam Clone for EQEmulator                                                                                             | https://github.com/Kinglykrab/Allaclone           |
-| CharBrowser       | Magelo Clone for EQEmulator                                                                                                 | https://github.com/maudigan/charbrowser           |
-| Spire             | A rich, portable server editing and development toolkit for EverQuest Emulator servers                                      | https://github.com/EQEmuTools/spire               |
-| PEQPHPEditor      | Full-Featured PHP Editor for EQEmulator                                                                                     | https://github.com/ProjectEQ/peqphpeditor         |
-| ProjectEQ Quests  | Quests Repo for ProjectEQ                                                                                                   | https://github.com/ProjectEQ/projecteqquests      |
-| EQEmu Maps        | Base, Nav, Water and Pathing maps for EQEmu                                                                                 | https://github.com/EQEmu/maps                     |
-| EQEmuPatcher      | Auto Patcher for EQEmu Servers                                                                                              | https://github.com/MidnightMusicClub/eqemupatcher |
-| TalkEQ            | Bridges links between everquest and other services                                                                          | https://github.com/xackery/talkeq                 |
-| Zone-Utilities    | Various utilities and libraries for parsing, rendering and manipulating EQ Zone files                                       | https://github.com/EQEmu/zone-utilities           |
-| MacroQuest        | An open source scripting and plugin platform for EverQuest                                                                  | https://github.com/macroquest/macroquest          |
-| MQ2TakeADump      | Allows you to dump EQ information out to CSV files, such as doors, groundspawns, objects, NPCs, current zone and zonepoints | https://github.com/maudigan/MQ2TakeADump          |
-| eq-core-dll       | Core DLL for EverQuest to do patching, opt in to features                                                                   | https://github.com/xackery/eq-core-dll/           |
+| Repositories      | Description                                                                                                                 | Link                                         |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|
+| The Grand Library | Compilation of repositories                                                                                                 | https://gitlab.com/TheGrandLibrary           |
+| EQEmu             | Main Repo for EQEmulator                                                                                                    | https://github.com/EQEmu/Server              |
+| EQEmu Docs        | Docs Repo for EQEmulator                                                                                                    | https://github.com/EQEmu/eqemu-docs-v2       |
+| Allaclone         | Allakhazam Clone for EQEmulator                                                                                             | https://github.com/Kinglykrab/Allaclone      |
+| CharBrowser       | Magelo Clone for EQEmulator                                                                                                 | https://github.com/maudigan/charbrowser      |
+| Spire             | A rich, portable server editing and development toolkit for EverQuest Emulator servers                                      | https://github.com/EQEmuTools/spire          |
+| PEQPHPEditor      | Full-Featured PHP Editor for EQEmulator                                                                                     | https://github.com/ProjectEQ/peqphpeditor    |
+| ProjectEQ Quests  | Quests Repo for ProjectEQ                                                                                                   | https://github.com/ProjectEQ/projecteqquests |
+| EQEmu Maps        | Base, Nav, Water and Pathing maps for EQEmu                                                                                 | https://github.com/EQEmu/maps                |
+| EQEmuPatcher      | Auto Patcher for EQEmu Servers                                                                                              | https://github.com/xackery/eqemupatcher      |
+| TalkEQ            | Bridges links between everquest and other services                                                                          | https://github.com/xackery/talkeq            |
+| Zone-Utilities    | Various utilities and libraries for parsing, rendering and manipulating EQ Zone files                                       | https://github.com/EQEmu/zone-utilities      |
+| MacroQuest        | An open source scripting and plugin platform for EverQuest                                                                  | https://github.com/macroquest/macroquest     |
+| MQ2TakeADump      | Allows you to dump EQ information out to CSV files, such as doors, groundspawns, objects, NPCs, current zone and zonepoints | https://github.com/maudigan/MQ2TakeADump     |
+| eq-core-dll       | Core DLL for EverQuest to do patching, opt in to features                                                                   | https://github.com/xackery/eq-core-dll/      |
 
 
 | Useful Tools     | Description                                   | Link                                                                |
@@ -40,11 +40,11 @@
 | Akk-Stack repo & docs  | Link                                                 |
 |:-----------------------|:-----------------------------------------------------|
 | Akk-Stack              | https://github.com/Akkadius/akk-stack.git            |
-| Akk-Stack-Introduction | https://vegaseq.com/docs/akk-stack/introduction/     |
-| Akk-Stack-Installation | https://vegaseq.com/docs/akk-stack/installation/     |
-| Akk-Stack-Backups      | https://vegaseq.com/docs/akk-stack/operate/backups/  |
-| Akk-Stack-Servies      | https://vegaseq.com/docs/akk-stack/operate/services/ |
-| Akk-Stack-Update       | https://vegaseq.com/docs/akk-stack/operate/update/   |
+| Akk-Stack-Introduction | https://docs.eqemu.dev//docs/akk-stack/introduction/     |
+| Akk-Stack-Installation | https://docs.eqemu.dev//docs/akk-stack/installation/     |
+| Akk-Stack-Backups      | https://docs.eqemu.dev//docs/akk-stack/operate/backups/  |
+| Akk-Stack-Servies      | https://docs.eqemu.dev//docs/akk-stack/operate/services/ |
+| Akk-Stack-Update       | https://docs.eqemu.dev//docs/akk-stack/operate/update/   |
 
 | Docker                  | Link                                |
 |:------------------------|:------------------------------------|
@@ -55,7 +55,7 @@
 |:--------------------------------------------|:---------------------------------------------------------------------|
 | PEQPHPEditor                                | https://github.com/ProjectEQ/peqphpeditor                            |
 | EOC                                         | https://eoc.eqemu.dev/                                               |
-| Quest-API Introduction                      | http://vegaseq.com/docs/quest-api/introduction/                      |
+| Quest-API Introduction                      | http://docs.eqemu.dev//docs/quest-api/introduction/                      |
 | Spire Quest API Explorer                    | https://spire.eqemu.dev/                                             |
 | Allaclone Repo                              | https://github.com/Akkadius/EQEmuAllakhazamClone                     |
 | Allaclone Website                           | https://alla.eqemu.dev/                                              |
