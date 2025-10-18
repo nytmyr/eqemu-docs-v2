@@ -75,11 +75,11 @@
 | __**Name**__           | __**Link**__                                            |
 |:-----------------------|:--------------------------------------------------------|
 | Akk-Stack              | https://github.com/EQEmuTools/akk-stack                 |
-| Akk-Stack-Introduction | https://docs.eqemu.dev/docs/akk-stack/introduction/     |
-| Akk-Stack-Installation | https://docs.eqemu.dev/docs/akk-stack/installation/     |
-| Akk-Stack-Backups      | https://docs.eqemu.dev/docs/akk-stack/operate/backups/  |
-| Akk-Stack-Services     | https://docs.eqemu.dev/docs/akk-stack/operate/services/ |
-| Akk-Stack-Update       | https://docs.eqemu.dev/docs/akk-stack/operate/update/   |
+| Akk-Stack-Introduction | https://docs.eqemu.dev/akk-stack/introduction/    |
+| Akk-Stack-Installation | https://docs.eqemu.dev/akk-stack/installation/     |
+| Akk-Stack-Backups      | https://docs.eqemu.dev/akk-stack/operate/backups/  |
+| Akk-Stack-Services     | https://docs.eqemu.dev/akk-stack/operate/services/ |
+| Akk-Stack-Update       | https://docs.eqemu.dev/akk-stack/operate/update/   |
 
 ## Docker References
 
