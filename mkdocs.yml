@@ -752,6 +752,7 @@ nav:
           - Lua [SpecialAbility]: quest-api/constants/lua-specialability.md
           - Lua [Zone]: quest-api/constants/lua-zone.md
   - Changelog:
+      - "VegasEQ (2025)": changelog/vegaseq/2025.md
       - "2023": changelog/server/2023.md
       - "2022": changelog/server/2022.md
       - "2021": changelog/server/2021.md
