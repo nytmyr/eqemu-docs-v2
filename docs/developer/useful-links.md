@@ -2,10 +2,10 @@
 
 ## VegasEQ Links
 
-| __**Resource**__    | __**Description**__          | __**Link**__                    |
-|:--------------------|:-----------------------------|:--------------------------------|
-| VegasEQ Allaclone   | Allakhazam Clone for VegasEQ | http://vegaseq.com/Allaclone/   |
-| VegasEQ CharBrowser | Magelo Clone for VegasEQ     | http://vegaseq.com/charbrowser/ |
+| __**Resource**__    | __**Description**__          | __**Link**__                     |
+|:--------------------|:-----------------------------|:---------------------------------|
+| VegasEQ Allaclone   | Allakhazam Clone for VegasEQ | https://vegaseq.com/Allaclone/   |
+| VegasEQ CharBrowser | Magelo Clone for VegasEQ     | https://vegaseq.com/charbrowser/ |
 
 ## Repositories
 
@@ -56,7 +56,7 @@
 | GamParse                   | Log Viewer, Parser, Overlay                                                                                                     | https://elitegamerslounge.com/home/gamparse/GamParse-2.0.0-Beta.exe                                        | 
 | EQLogParser                | Log Viewer, Parser, Audio Triggers, Overlay                                                                                     | https://github.com/kauffman12/EQLogParser                                                                  | 
 | RaidLoot LogSync           | Limited Feature Parser                                                                                                          | https://s3.amazonaws.com/raidloot/logsync.exe                                                              | 
-| GIN                        | Audio Triggers                                                                                                                  | https://github.com/smasherprog/Gina/releases                                                               | 
+| GINA                       | Audio Triggers                                                                                                                  | https://github.com/smasherprog/Gina/releases                                                               | 
 | EQNag                      | Audio Triggers, Overlay, Floating Combat Text                                                                                   | https://github.com/guildantix/eq-nag/releases                                                              | 
 | EZInventory                | MacroQuest lua script to help facilitate inventory management across all of your connected characters                           | https://github.com/andude2/EZInventory                                                                     |
 | EZBots                     | MacroQuest lua script to help monitor all your connected bots                                                                   | https://github.com/andude2/EZBots                                                                          |
@@ -72,10 +72,10 @@
 
 ## AkkStack References
 
-| __**Name**__           | __**Link**__                                            |
-|:-----------------------|:--------------------------------------------------------|
-| Akk-Stack              | https://github.com/EQEmuTools/akk-stack                 |
-| Akk-Stack-Introduction | https://docs.eqemu.dev/akk-stack/introduction/    |
+| __**Name**__           | __**Link**__                                       |
+|:-----------------------|:---------------------------------------------------|
+| Akk-Stack              | https://github.com/EQEmuTools/akk-stack            |
+| Akk-Stack-Introduction | https://docs.eqemu.dev/akk-stack/introduction/     |
 | Akk-Stack-Installation | https://docs.eqemu.dev/akk-stack/installation/     |
 | Akk-Stack-Backups      | https://docs.eqemu.dev/akk-stack/operate/backups/  |
 | Akk-Stack-Services     | https://docs.eqemu.dev/akk-stack/operate/services/ |
