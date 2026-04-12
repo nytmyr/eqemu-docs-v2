@@ -4,3 +4,4 @@ public
 .env
 node_modules
 .cache
+php_errors.log
